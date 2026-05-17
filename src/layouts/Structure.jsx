@@ -65,6 +65,10 @@ function Structure() {
                                         Who We Are
                                     </Link>
                                 </li>
+                                <li class="form-check form-switch">
+                                    <input className="form-check-input" type="checkbox" role="switch" id="switchCheckDefault" />
+                                    <label className="form-check-label" htmlFor="switchCheckDefault">No Money Filter</label>
+                                </li>
 
                             </ul>
                         </div>
